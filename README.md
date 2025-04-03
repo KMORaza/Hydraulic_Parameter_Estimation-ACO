@@ -1,3 +1,6 @@
+Hydraulic Parameter Estimation using Ant Colony Optimization
+---
+
 * Pipe roughness coefficients are represented as discrete values (nodes in a graph)
 * Each ant's path represents a potential solution (set of roughness values)
 * Initialization:
