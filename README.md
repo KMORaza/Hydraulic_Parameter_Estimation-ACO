@@ -1,5 +1,4 @@
 Schätzung hydraulischer Parameter mittels Ameisenkolonieoptimierung (Hydraulic Parameter Estimation using Ant Colony Optimization)
-
 ---
 
 * Pipe roughness coefficients are represented as discrete values (nodes in a graph)
